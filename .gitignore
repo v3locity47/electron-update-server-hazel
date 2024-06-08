@@ -1,5 +1,6 @@
 # code coverage
 coverage
-
+.env
 # dependencies
 node_modules
+.vercel
